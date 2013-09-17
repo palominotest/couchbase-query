@@ -1,0 +1,5 @@
+# use the long name version of command line options
+host: "localhost:8091"
+username: default
+password: ""
+bucket: default

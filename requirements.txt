@@ -1,0 +1,4 @@
+argparse==1.2.1
+PyYAML==3.10
+logutils==0.3.3
+-e git+https://github.com/elmerpalominodb/couchbase-python-client.git@5411f837ce6ab3d9126400f6402da43ef84e7be6#egg=couchbase-dev

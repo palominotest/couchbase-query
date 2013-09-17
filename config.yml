@@ -1,0 +1,5 @@
+# use the long name version of command line options
+host: "ec2-46-137-197-232.ap-southeast-1.compute.amazonaws.com:8091"
+username: default
+password: ""
+bucket: default
